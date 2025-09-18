@@ -1,0 +1,5 @@
+export { default as ReceptionSlide } from './ReceptionSlide'
+export { default as ConsultationSlide } from './ConsultationSlide'
+export { default as OperationTheaterSlide } from './OperationTheaterSlide'
+export { default as ScanCenterSlide } from './ScanCenterSlide'
+export { default as PatientRoomsSlide } from './PatientRoomsSlide'
